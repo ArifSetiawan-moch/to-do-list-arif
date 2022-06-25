@@ -1,7 +1,7 @@
 {
   "name": "react-todo-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://ArifSetiawan-moch.github.io/to-do-list-arif",
   "devDependencies": {
     "gh-pages": "^4.0.0",
